@@ -1,0 +1,1 @@
+export type TNavItems = Record<'title' | 'link', string>[]
